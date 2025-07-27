@@ -23,7 +23,7 @@ export default function Dashboard() {
 
     const fetchUser = async () => {
       try {
-        const res = await api.get(`http://localhost:5000/api/user/${uid}`);
+        const res = await api.get(`https://skillink-6mvm.onrender.com//api/user/${uid}`);
         const currentUser = await res.data;
 
         setUser({
