@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react-swc"
 import path from "path"
 
 export default defineConfig({
+  baseURL: import.meta.env.VITE_API_BASE_URL
   server: {
     port: 5173,
     host: "localhost",
