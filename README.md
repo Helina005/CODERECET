@@ -3,14 +3,17 @@
 ## Project Repository
 *Commit and save your changes here*
 
-### Team Name :
-### Team Members :
-### Project Description
-.
-.
-.
+### Team Name : Without Chaaya
 
-## Technical Details
+### Team Members : Dhiya therse joshy , Fenza Maria, Aiswarya S, Helina Alex
+
+### Project Description :In a college ecosystem rich with talent but limited by financial resources, we identified the need for a collaborative, non-monetary skill exchange platform — and thus, SkillSwap was born. SkillSwap is a smart, gamified Skill Barter System designed specifically for college students to teach, learn, and grow by exchanging skills like design, coding, music, public speaking, and more.
+Our idea evolved from the simple notion of peer learning into an engaging, student-centric platform powered by AI-based matchmaking, gamification, and skill-chain bartering, where students can participate in multi-way exchanges when direct matches aren’t available.
+Built with a React Native front-end and Flask backend using firebase as the database , SkillSwap includes features like smart scheduling, student leaderboards, review systems, skill portfolios, and real-time group learning circles — making it not only useful and necessary for campus communities but also a powerful tool for students to build portfolios, grow confidence, and form meaningful academic networks.
+In short, it's LinkedIn meets Duolingo, purpose-built for college life — all without the money barrier.
+.
+.
+## Technical Details : Teckstack
 
 ### Technologies/Components Used
 
