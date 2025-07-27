@@ -4,7 +4,7 @@
 *Commit and save your changes here*
 
 ### Team Name :Without Chaaya
-### Team Members : Dhiya Theres Joshy , Fenza Maria , Aiiswarya S , Helina Alex
+### Team Members : Dhiya Theres Joshy , Fenza Maria K A , Aiiswarya S , Helina Alex
 ### Project Description
 In a college ecosystem rich with talent but limited by financial resources, we identified the need for a collaborative, non-monetary skill exchange platform — and thus, SkillSwap was born. SkillSwap is a smart, gamified Skill Barter System designed specifically for college students to teach, learn, and grow by exchanging skills like design, coding, music, public speaking, and more.
 Our idea evolved from the simple notion of peer learning into an engaging, student-centric platform powered by AI-based matchmaking, gamification, and skill-chain bartering, where students can participate in multi-way exchanges when direct matches aren’t available.
@@ -199,7 +199,7 @@ Final(Add photo of final product here) Explain the final build
 [Add any extra demo materials/links]
 
 ## Team Contributions
-Dhiya There Joshy: Frontend stack, UI/UX
-Fenza Maria K A: Backend stack
+Dhiya There Joshy: Frontend stack, UI/UX,Deployement , Integration of Stack
+Fenza Maria K A: Backend stack,
 Aiswarya S: Database management
 Helina Alex : Hosting and Testing backend stack
